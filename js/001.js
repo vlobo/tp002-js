@@ -18,5 +18,5 @@ else if(isNaN(edad)){
 }
     
 else{
-    document.write("no puedes votar")
+    document.write("no puedes votar!")
 }
