@@ -1,0 +1,9 @@
+table {
+  border-radius: 1;
+  border-color: blue;
+}
+
+td {
+  border: 1px solid #00276e;
+  padding: 5px;
+}
